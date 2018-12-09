@@ -1,11 +1,11 @@
 # Filter Methods 
-**[Constant Features]()**  
+**[Constant Features](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.2_Constant_features.ipynb)**  
 &ensp;   Removing constant features from the datasets.  
-**[Quasi-Constant Features]()**  
-&ensp;   Removing Quasi-constant features that are constant for more than a threshold percentage of the time. 
-**[Duplicate Features]()**  
+**[Quasi-Constant Features](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.3_Quasi-constant_features.ipynb)**  
+&ensp;   Removing Quasi-constant features that are constant for more than a threshold percentage of the time.  
+**[Duplicate Features](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.4_Duplicated_features.ipynb)**  
 &ensp;   Removing duplicate features from the datasets.  
-**[Filtering Basics]()**  
+**[Filtering Basics](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.5_Basics_Overview.ipynb)**  
 &ensp;   Summary of all techniques above in one notebook.  
 
 
