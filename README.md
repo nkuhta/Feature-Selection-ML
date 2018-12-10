@@ -1,4 +1,4 @@
-# Filter Methods 
+# Filter - Basic Constant/Duplicate Filtering Methods  
 **[Constant Features](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.2_Constant_features.ipynb)**  
 &ensp;   Removing constant features from the datasets.  
 **[Quasi-Constant Features](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.3_Quasi-constant_features.ipynb)**  
@@ -8,8 +8,9 @@
 **[Filtering Basics](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.5_Basics_Overview.ipynb)**  
 &ensp;   Summary of all techniques above in one notebook.  
 
-
-
+# Correlation 
+**[Correlation]()**
+&ensp;  Using a correlation matrix, remove features that are highly correlated with each other.  
 
 #  References
 1.  **Feature Selection for Machine Learning** - Udemy  
