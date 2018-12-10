@@ -8,8 +8,8 @@
 **[Filtering Basics](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/1.%20%20Constant%20Features/03.5_Basics_Overview.ipynb)**  
 &ensp;   Summary of all techniques above in one notebook.  
 
-# Correlation 
-**[Correlation]()**
+# Filter - Correlation 
+**[Correlation](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/2.%20%20Correlation/04.2_Correlation.ipynb)**
 &ensp;  Using a correlation matrix, remove features that are highly correlated with each other.  
 
 #  References
