@@ -11,8 +11,9 @@
 # Filter - Correlation  
 **[Correlation](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/2.%20%20Correlation/04.2_Correlation.ipynb)**  
 &ensp;  Using a correlation matrix, remove features that are highly correlated with each other.  
-**[Basic Methods + Correlation Pipeline]**()  
-&ensp;   Constant feature and correlation pipeline. 
+**[Basic Methods + Correlation Pipeline]**(https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/2.%20%20Correlation/04.3_Basic_methods_plus_correlation_pipeline.ipynb)  
+&ensp;   Constant feature and correlation pipeline.  
+
 
 #  References
 1.  **Feature Selection for Machine Learning** - Udemy  
