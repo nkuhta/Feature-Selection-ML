@@ -15,7 +15,7 @@
 &ensp;   Constant feature and correlation pipeline.  
 
 # Filter - Statistical Measures  
-**[Mutual Information - Information Gain]()**  
+**[Mutual Information - Information Gain](https://github.com/nkuhta/Feature-Selection-ML/blob/master/1.%20%20Filter%20Methods/3.%20%20Statistical%20Measures/05.2_Information_gain.ipynb)**  
 &ensp;  Ranking variables based on mutual information, or dependence, of two variables.  
 **[]()**  
 &ensp;  
